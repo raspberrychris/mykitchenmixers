@@ -7,7 +7,6 @@ toc: true
 canonicalUrl: “/"
 ---
 
-![my-kitchen-mixers](https://images.unsplash.com/photo-1547091267-6b2be403a763?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)
 
 ## Table of Contents
 
