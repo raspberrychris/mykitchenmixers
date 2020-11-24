@@ -1,0 +1,49 @@
+baseURL = "/"
+author = ""
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+# Above are configs from hugoBasicExample
+
+title = "My Kitchen Mixers"
+theme = "hugo-primer"
+hasCJKLanguage = true
+summaryLength = 70
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+googleAnalytics = ""
+disqusShortname=""
+copyright = "&copy;Mykitchenmixers.com 2020"
+
+
+
+
+[params]
+description = ""
+twitter = ""
+useIcon = false
+useTwitterCard = true
+# exampleSite must not have js share widget: #36
+# shareTo = ["Twitter", "Hatena", "Facebook", "Pocket"]
+shareTo = []
+showFooterCredits = true
+math = true
+
+[[menu.main]]
+name = "Kitchen Mixers"
+URL = "/"
+weight = 1
+
+
+
+
+
+
+[Params.social.share]
+  facebook = true
+  linkedin = true
+  twitter = true
+  whatsapp = true
+  email = true
