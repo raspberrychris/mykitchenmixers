@@ -12,7 +12,6 @@ canonicalUrl: “/"
 
 <!-- MDTOC maxdepth:6 firsth1:1 numbering:0 flatten:0 bullets:0 updateOnSave:1 -->
 
-   - [Table of Contents](#table-of-contents)   
    - [Our Guide to the Best Kitchen Mixers](#our-guide-to-the-best-kitchen-mixers)   
    - [Best Stand Mixers](#best-stand-mixers)   
    - [Kenwood Chef Elite Xl Stand Mixer](#kenwood-chef-elite-xl-stand-mixer)   
