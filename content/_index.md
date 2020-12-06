@@ -34,7 +34,7 @@ canonicalUrl: “/"
 
 ## Our Guide to the Best Kitchen Mixers
 
-At [mykitchenmixers.com](musicstands.co.uk) we have created a simple, **easy to follow guide to the best kitchen mixers on the market.**  
+At [mykitchenmixers.com](mykitchenmixers.com) we have created a simple, **easy to follow guide to the best kitchen mixers on the market.**  
 
 ## Best Stand Mixers
 
