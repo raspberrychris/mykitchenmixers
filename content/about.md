@@ -15,4 +15,4 @@ weight = 5
 
 **Affiliate Disclaimer:**
 
-mykitchenmixers.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk.
+Mykitchenmixers.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk.
